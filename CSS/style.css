@@ -1,0 +1,128 @@
+body,html {
+    background: #9b9b9b;
+    margin: 0px;
+    font-family: "SoDo Sans SemiBold" ,Helvetica Neue,Helvetica,Arial,sans-serif;;
+}
+
+.navbar-left svg {
+    width: 50px;
+    margin-right: 20px;
+}
+
+.navbar {
+    padding: 20px;
+    font-size: 14px;
+    border-bottom: solid #026802d7 ;
+}
+
+.navbar-left-item {
+    text-transform: uppercase;
+    padding: 20px;
+}
+
+.navbar-left-item a {
+    text-decoration: none;
+    color: #000;
+    transition: all .3s;
+}
+
+.navbar-left-item:hover {
+    color: #fff;
+    background: #026802d7;
+    border-radius: 15px;
+}
+
+.navbar-left{
+    display: flex;
+    align-items: center;
+}
+
+.navbar-left >* {
+    padding: 20px;
+}
+
+.btn-close {
+    background-color: #fff;
+    transition: all .3s;
+}
+
+
+.btn-close:hover {
+    background-color: #f00;
+    border-radius: 15px;
+    color: #000;
+}
+
+.navbar-toggler {
+    transition: all .3s;
+}
+
+
+.navbar-toggler:hover {
+    background-color: #0268029f;
+}
+
+.About-us {
+    margin-top: 5px;
+}
+
+.conteiner {
+    background-color: #026802d7;
+    border-radius: 5px;
+    filter: drop-shadow(
+        5px 5px 5px #9b9b9b
+    );
+}
+
+.conteiner-text {
+    margin-left: 5px;
+}
+
+.conteiner-text h3 {
+    text-align: center;
+}
+
+.title {
+    font-family: "TicketbookW01-Black";
+}
+
+.Med-pic {
+    width: 400px;
+    height: 200px; 
+}
+
+.Services {
+    margin-top: 15px;
+}
+
+.footer-logo {
+    width: 50px;
+    height: 50px;
+}
+
+.footer-conteiner {
+    margin-top: 15px;
+    margin: auto;
+    width: 50%;
+    padding: 10px;
+}
+
+.logo-dis {
+    font-family: "TicketbookW01-Black";
+}
+
+.Designer-dis {
+    margin-top: 15px;
+    margin: auto;
+    width: 50%;
+    padding: 10px;
+    border-top: solid 5px #156b04e7;
+    border-radius: 15px;
+    filter: drop-shadow(
+        5px 5px 5px #000
+    );
+}
+
+/* 
+    End of the line Writed by Amirhosein khajegoli in Jun 26 of 2023
+*/
